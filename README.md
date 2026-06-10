@@ -10,3 +10,5 @@
 "- Commits" 
 "- Ramas" 
 "- Github" 
+"## Nivel 2 - Cambios y diferencias" 
+"En este nivel aprenderemos a revisar cambios antes de guardarlos." 
