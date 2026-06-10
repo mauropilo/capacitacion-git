@@ -14,3 +14,5 @@
 "En este nivel aprenderemos a revisar cambios antes de guardarlos." 
 "## Secci¢n de contacto" 
 "Correo: maurotarazona@gmail.com" 
+"## Proyecto de pr ctica" 
+"Este repositorio se usa para aprender Git de forma progresiva." 
