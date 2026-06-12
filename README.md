@@ -1,6 +1,6 @@
 "# capacitacion Git" 
 "" 
-"Este repositorio contiene ejercicios pr cticos para aprender Git desde cero." 
+"Este repositorio contiene ejercicios prÂ cticos para aprender Git desde cero." 
 "" 
 "## Autor" 
 "Mauro Tarazona" 
@@ -12,9 +12,13 @@
 "- Github" 
 "## Nivel 2 - Cambios y diferencias" 
 "En este nivel aprenderemos a revisar cambios antes de guardarlos." 
-"## Secci¢n de contacto" 
+"## SecciÂ¢n de contacto" 
 "Correo: maurotarazona@gmail.com" 
-"## Proyecto de pr ctica" 
+"## Proyecto de prÂ ctica" 
 "Este repositorio se usa para aprender Git de forma progresiva." 
 "## Flujo con GitHub" 
 "Este cambio se realiza localmente y luego se sube al repositorio remoto." 
+
+## Cambio realizado desde GitHub
+
+Esta lÃ­nea fue agregada directamente desde la plataforma web de GitHub.
