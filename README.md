@@ -1,4 +1,4 @@
-"# Capacitacion Git - version local" 
+# Capacitación Git - versión local y remota
 "" 
 "Este repositorio contiene ejercicios pr cticos para aprender Git desde cero." 
 "" 
