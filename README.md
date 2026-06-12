@@ -22,3 +22,6 @@
 ## Cambio realizado desde GitHub
 
 Esta línea fue agregada directamente desde la plataforma web de GitHub.
+## Cambio para probar fetch
+
+Esta línea fue creada en GitHub para comparar fetch y pull.
