@@ -16,3 +16,5 @@
 "Correo: maurotarazona@gmail.com" 
 "## Proyecto de pr ctica" 
 "Este repositorio se usa para aprender Git de forma progresiva." 
+"## Flujo con GitHub" 
+"Este cambio se realiza localmente y luego se sube al repositorio remoto." 
